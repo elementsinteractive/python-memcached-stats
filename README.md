@@ -39,7 +39,7 @@ ip defaults to 127.0.0.1 and port defaults to 11211.
 
 ## Installation
 
-    pip install 'git+git://github.com/dlrust/python-memcached-stats.git'
+    pip install 'git+git://github.com/elementsinteractive/python-memcached-stats.git'
 
 ## License
 
